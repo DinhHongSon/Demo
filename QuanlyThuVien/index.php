@@ -18,6 +18,7 @@
    <li><a href='#'><span>Danh Sách Lớp Học</span></a></li>
    <li class='last'><a href='#'><span>Contact</span></a></li>
    <li class='last'><a href='#'><span>Contact</span></a></li>
+   <li class='last'><a href='#'><span>Update</span></a></li>
 </ul>
 </div>
 
